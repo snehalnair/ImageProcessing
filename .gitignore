@@ -3,7 +3,6 @@ imageenv
 misc.py
 test.py
 images
-images_sample
 __pycache__
 .pytest_cache
 .ipynb_checkpoints
@@ -12,6 +11,7 @@ incorrect_images
 images
 image_processing_pkg_
 __pycache__
+sample_imagedir
 
 
 
